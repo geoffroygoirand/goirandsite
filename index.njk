@@ -1,0 +1,161 @@
+---
+permalink: index.html
+---
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Maître Geoffroy Goirand, avocat en droit social et droit immobilier. Conseil, négociation et contentieux pour les salariés, employeurs, propriétaires et occupants.">
+  <title>Maître Geoffroy Goirand | Avocat en droit social et immobilier</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#accueil" aria-label="Accueil">
+      <span class="brand-mark">GG</span>
+      <span><strong>Geoffroy Goirand</strong><small>Avocat</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">☰</button>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#expertises">Expertises</a>
+      <a href="#methode">Méthode</a>
+      <a href="blog.html">Blog</a>
+      <a class="nav-cta" href="#contact">Prendre rendez-vous</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="accueil">
+      <div class="hero-copy">
+        <p class="eyebrow">Droit social · Droit immobilier</p>
+        <h1>Défendre vos droits avec une stratégie claire et concrète.</h1>
+        <p class="lead">J’accompagne les particuliers, salariés, employeurs, propriétaires et occupants dans la prévention et le règlement de leurs litiges.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#contact">Exposer votre situation</a>
+          <a class="button secondary" href="tel:+33673100558">06 73 10 05 58</a>
+        </div>
+        <ul class="trust-list">
+          <li>Analyse personnalisée</li>
+          <li>Réponse pragmatique</li>
+          <li>Suivi direct du dossier</li>
+        </ul>
+      </div>
+      <div class="portrait-wrap">
+        <div class="portrait-card">
+          <img src="assets/geoffroy-goirand.jpg" alt="Portrait de Maître Geoffroy Goirand, avocat">
+          <div class="portrait-caption">
+            <strong>Maître Geoffroy Goirand</strong>
+            <span>Avocat au barreau</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="expertises">
+      <div class="section-heading">
+        <p class="eyebrow">Domaines d’intervention</p>
+        <h2>Une assistance juridique à chaque étape du litige</h2>
+      </div>
+      <div class="cards two-cols">
+        <article class="practice-card">
+          <span class="number">01</span>
+          <h3>Droit social</h3>
+          <p>Conseil et défense dans les relations de travail, de la négociation à la procédure prud’homale.</p>
+          <ul>
+            <li>Licenciement et rupture conventionnelle</li>
+            <li>Harcèlement, discrimination et souffrance au travail</li>
+            <li>Salaires, heures supplémentaires et indemnités</li>
+            <li>Négociation de départ et transactions</li>
+          </ul>
+        </article>
+        <article class="practice-card">
+          <span class="number">02</span>
+          <h3>Droit immobilier</h3>
+          <p>Accompagnement des propriétaires, copropriétaires, bailleurs, locataires et maîtres d’ouvrage.</p>
+          <ul>
+            <li>Malfaçons et dommages de construction</li>
+            <li>Baux, loyers, congés et expulsions</li>
+            <li>Litiges de voisinage et troubles anormaux</li>
+            <li>Copropriété et responsabilité des intervenants</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="method section" id="methode">
+      <div>
+        <p class="eyebrow light">Une méthode lisible</p>
+        <h2>Comprendre, décider, agir.</h2>
+      </div>
+      <div class="steps">
+        <article><span>1</span><h3>Diagnostic</h3><p>Étude des faits, des pièces, des délais et des risques.</p></article>
+        <article><span>2</span><h3>Stratégie</h3><p>Présentation des options, du coût prévisible et des chances de succès.</p></article>
+        <article><span>3</span><h3>Action</h3><p>Négociation, mise en demeure, expertise ou saisine de la juridiction compétente.</p></article>
+      </div>
+    </section>
+
+    <section class="section" id="blog">
+      <div class="section-heading split-heading">
+        <div><p class="eyebrow">Actualités & conseils</p><h2>Le blog du cabinet</h2></div>
+        <p>Des éclairages pratiques en droit social et immobilier.</p>
+      </div>
+      <div class="cards blog-grid">
+        {% for article in collections.articles | reverse %}{% if loop.index <= 2 %}
+        <article class="article-card">
+          <span>{{ article.data.category }}</span>
+          <h3>{{ article.data.title }}</h3>
+          <p>{{ article.data.description }}</p>
+          <a href="/{{ article.url }}">Lire l’article <span>→</span></a>
+        </article>
+        {% endif %}{% endfor %}
+      </div>
+      <p class="blog-more"><a class="button secondary" href="blog.html">Voir tous les articles</a></p>
+    </section>
+
+    <section class="contact section" id="contact">
+      <div class="contact-copy">
+        <p class="eyebrow light">Prendre contact</p>
+        <h2>Présentez-moi votre situation.</h2>
+        <p>Décrivez brièvement votre difficulté et les principales échéances. Vous recevrez une réponse sur les modalités d’un premier échange.</p>
+        <div class="contact-details">
+          <a href="tel:+33673100558">06 73 10 05 58</a>
+          <a href="mailto:geoffroy.goirand@gmail.com">geoffroy.goirand@gmail.com</a>
+        </div>
+      </div>
+      <form class="contact-form" name="contact" method="POST" action="/" data-netlify="true" data-netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="contact">
+        <p class="hidden"><label>Ne pas remplir : <input name="bot-field"></label></p>
+        <div class="field-row">
+          <label>Nom et prénom<input type="text" name="nom" autocomplete="name" required></label>
+          <label>Téléphone<input type="tel" name="telephone" autocomplete="tel"></label>
+        </div>
+        <label>Adresse e-mail<input type="email" name="email" autocomplete="email" required></label>
+        <label>Objet
+          <select name="objet" required>
+            <option value="">Sélectionnez</option>
+            <option>Droit social</option>
+            <option>Droit immobilier</option>
+            <option>Autre demande</option>
+          </select>
+        </label>
+        <label>Votre message<textarea name="message" rows="6" required></textarea></label>
+        <label class="consent"><input type="checkbox" name="consentement" value="oui" required> <span>J’accepte que mes données soient utilisées pour répondre à ma demande.</span></label>
+        <button class="button primary full" type="submit">Envoyer ma demande</button>
+        <p id="form-status" role="status" aria-live="polite"></p>
+        <small>L’envoi de ce formulaire ne crée pas, à lui seul, de relation avocat-client.</small>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>Maître Geoffroy Goirand</strong><span>Avocat en droit social et droit immobilier</span></div>
+    <div class="footer-links"><a href="mentions-legales.html">Mentions légales</a><a href="#accueil">Retour en haut ↑</a></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

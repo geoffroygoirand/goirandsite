@@ -1,0 +1,29 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: fr
+publish_mode: editorial_workflow
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "articles"
+    create: true
+    delete: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{slug}}.html"
+    fields:
+      - { label: "Mise en page", name: "layout", widget: "hidden", default: "article.njk" }
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Résumé", name: "description", widget: "text", hint: "Deux ou trois phrases affichées sur la page du blog." }
+      - { label: "Catégorie", name: "category", widget: "select", options: ["Droit social", "Droit immobilier", "Droit de la construction", "Droit public", "Actualité du cabinet"] }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Texte alternatif de l’image", name: "image_alt", widget: "string", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
