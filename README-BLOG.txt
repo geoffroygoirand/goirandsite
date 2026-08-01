@@ -1,41 +1,26 @@
-SITE AVOCAT – BLOG ADMINISTRABLE SUR NETLIFY
+SITE AVOCAT — ELEVENTY 3 / NETLIFY / DECAP CMS
 
-1. MISE EN LIGNE
-- Envoyez tout le contenu de ce dossier dans le dépôt GitHub :
-  geoffroygoirand/goirandsite
-- Reliez ce dépôt au site Netlify.
-- Build command : npm run build
-- Publish directory : _site
+1. Envoyer tous les fichiers sur la branche main du dépôt GitHub.
+2. Dans Netlify, importer le dépôt.
+3. Build command : npm run build
+4. Publish directory : _site
+5. Activer Forms > Form detection puis relancer un déploiement.
+6. Activer Identity, choisir Invite only, puis activer Git Gateway.
+7. Inviter votre adresse et accepter l’invitation.
+8. Administration : https://votre-site.netlify.app/admin/
 
-2. ACTIVER L’ADMINISTRATION
-Dans Netlify :
-- Project configuration > Identity > Enable Identity
-- Registration preferences : Invite only
-- Services > Git Gateway > Enable Git Gateway
-- Identity > Users > Invite users
+Le formulaire est nommé « contact » et redirige vers /merci.html.
+Les articles sont enregistrés dans /articles et publiés sous /articles/slug/.
 
-3. ACCEPTER L’INVITATION
-- Ouvrez le courriel Netlify puis cliquez sur « Accept the invite ».
-- Le lien ouvre la page d’accueil. C’est normal.
-- Une fenêtre Netlify Identity doit apparaître automatiquement pour définir le mot de passe.
-- Après connexion, vous êtes redirigé vers /admin/.
+CORRECTION ELEVENTY 3
+Le permalink dynamique est placé dans :
+articles/articles.11tydata.js > eleventy > computed > permalink.
 
-4. PUBLIER UN ARTICLE
-- Ouvrez https://votre-site.netlify.app/admin/
-- Connectez-vous avec l’adresse invitée et le mot de passe choisi.
-- Cliquez sur Articles > Nouvel article.
-- Enregistrez, puis publiez. Netlify reconstruit automatiquement le site.
+COMMANDES GIT
+  git add .
+  git commit -m "Mise à jour Eleventy 3"
+  git push origin main
 
-5. EN CAS DE CACHE
-Après un nouveau déploiement, rechargez la page avec Ctrl + F5 puis réutilisez le lien d’invitation tant qu’il est valide.
-
-
-FORMULAIRE NETLIFY
--------------------
-Le formulaire se trouve dans index.njk. Il utilise un envoi HTML classique :
-- method="POST"
-- data-netlify="true"
-- champ caché form-name=contact
-- redirection vers /merci.html
-
-Le fichier script.js n’intercepte plus l’envoi. Après chaque modification, poussez le projet sur GitHub puis attendez le nouveau déploiement Netlify. Dans Netlify, activez Forms > Form detection. Le formulaire doit ensuite apparaître sous le nom « contact ».
+TEST LOCAL
+  npm install
+  npm run start

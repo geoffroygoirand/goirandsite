@@ -4,7 +4,6 @@ title: "Licenciement : les premiers réflexes pour protéger ses droits"
 description: "Une contestation efficace se prépare dès les premiers signes de rupture."
 category: "Droit social"
 date: 2026-08-01
-permalink: article-licenciement.html
 featured: true
 ---
 ## 1. Conserver les preuves

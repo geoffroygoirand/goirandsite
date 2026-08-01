@@ -4,7 +4,6 @@ title: "Malfaçons et dommages de construction : comment réagir ?"
 description: "Réserves, photographies, constat et expertise : les étapes essentielles pour préserver les preuves et engager les responsabilités."
 category: "Droit immobilier"
 date: 2026-08-01
-permalink: article-construction.html
 featured: false
 ---
 ## 1. Documenter immédiatement les désordres

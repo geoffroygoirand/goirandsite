@@ -12,6 +12,7 @@ permalink: index.html
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="alternate" type="application/atom+xml" title="Flux du blog" href="/feed.xml">
 </head>
 <body>
   <header class="site-header">
@@ -104,7 +105,7 @@ permalink: index.html
         <p>Des éclairages pratiques en droit social et immobilier.</p>
       </div>
       <div class="cards blog-grid">
-        {% for article in collections.articles | reverse %}{% if loop.index <= 2 %}
+        {% for article in collections.articles %}{% if loop.index <= 2 %}
         <article class="article-card">
           <span>{{ article.data.category }}</span>
           <h3>{{ article.data.title }}</h3>

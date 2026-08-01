@@ -17,7 +17,7 @@ collections:
     extension: "md"
     format: "frontmatter"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "{{slug}}.html"
+    preview_path: "articles/{{slug}}/"
     fields:
       - { label: "Mise en page", name: "layout", widget: "hidden", default: "article.njk" }
       - { label: "Titre", name: "title", widget: "string" }
