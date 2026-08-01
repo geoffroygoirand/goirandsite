@@ -28,3 +28,14 @@ Dans Netlify :
 
 5. EN CAS DE CACHE
 Après un nouveau déploiement, rechargez la page avec Ctrl + F5 puis réutilisez le lien d’invitation tant qu’il est valide.
+
+
+FORMULAIRE NETLIFY
+-------------------
+Le formulaire se trouve dans index.njk. Il utilise un envoi HTML classique :
+- method="POST"
+- data-netlify="true"
+- champ caché form-name=contact
+- redirection vers /merci.html
+
+Le fichier script.js n’intercepte plus l’envoi. Après chaque modification, poussez le projet sur GitHub puis attendez le nouveau déploiement Netlify. Dans Netlify, activez Forms > Form detection. Le formulaire doit ensuite apparaître sous le nom « contact ».
