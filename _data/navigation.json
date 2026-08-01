@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Accueil",
+    "url": "/"
+  },
+  {
+    "label": "Expertises",
+    "url": "/#expertises"
+  },
+  {
+    "label": "Méthode",
+    "url": "/#methode"
+  },
+  {
+    "label": "Blog",
+    "url": "/blog/"
+  },
+  {
+    "label": "Contact",
+    "url": "/#contact"
+  }
+]

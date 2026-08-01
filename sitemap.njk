@@ -1,15 +1,14 @@
 ---
-permalink: sitemap.xml
+permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}/</loc></url>
-  <url><loc>{{ site.url }}/blog.html</loc></url>
-  {% for article in collections.articles %}
+{% for item in collections.all %}
+{% if item.url %}
   <url>
-    <loc>{{ site.url }}{{ article.url }}</loc>
-    <lastmod>{{ article.date | htmlDate }}</lastmod>
+    <loc>{{ site.url }}{{ item.url }}</loc>
   </url>
-  {% endfor %}
+{% endif %}
+{% endfor %}
 </urlset>

@@ -1,5 +1,13 @@
 {
   "name": "Maître Geoffroy Goirand",
-  "url": "https://rad-madeleine-f0e313.netlify.app",
-  "description": "Cabinet d’avocat en droit social et droit immobilier."
+  "shortName": "Geoffroy Goirand",
+  "profession": "Avocat",
+  "tagline": "Une stratégie claire pour défendre vos droits.",
+  "description": "Maître Geoffroy Goirand accompagne particuliers, entreprises et collectivités en droit public, droit immobilier, droit social et droit rural.",
+  "phone": "06 73 10 05 58",
+  "phoneHref": "+33673100558",
+  "email": "geoffroy.goirand@gmail.com",
+  "city": "Villefranche-sur-Saône",
+  "url": "https://goirandsite.netlify.app",
+  "author": "Geoffroy Goirand"
 }

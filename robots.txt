@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
 
-Sitemap: https://rad-madeleine-f0e313.netlify.app/sitemap.xml
+Sitemap: https://goirandsite.netlify.app/sitemap.xml

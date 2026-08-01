@@ -1,27 +1,31 @@
 ---
-permalink: blog.html
+layout: layouts/base.njk
+title: Blog juridique
+description: Articles et conseils pratiques en droit public, immobilier, social et rural.
+permalink: /blog/
 ---
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Le blog de Maître Geoffroy Goirand : articles pratiques en droit social et en droit immobilier.">
-  <title>Blog juridique | Maître Geoffroy Goirand</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="styles.css">
-  <link rel="alternate" type="application/atom+xml" title="Flux du blog" href="/feed.xml">
-</head>
-<body>
-<header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">GG</span><span><strong>Geoffroy Goirand</strong><small>Avocat</small></span></a><button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">☰</button><nav class="nav"><a href="index.html#expertises">Expertises</a><a href="index.html#methode">Méthode</a><a aria-current="page" href="blog.html">Blog</a><a class="nav-cta" href="index.html#contact">Prendre rendez-vous</a></nav></header>
-<main>
-<section class="blog-hero"><div><p class="eyebrow">Actualités & conseils</p><h1>Le blog du cabinet</h1><p class="lead">Des explications concrètes pour comprendre vos droits, identifier les bons réflexes et préparer utilement vos démarches.</p></div></section>
-<section class="section blog-page-section"><div class="blog-toolbar"><div><p class="eyebrow">Tous les articles</p><h2>Conseils juridiques pratiques</h2></div><p>Les articles proposés sont généraux et ne remplacent pas l’analyse personnalisée d’un dossier.</p></div>
-<div class="cards blog-grid blog-listing">
-{% for article in collections.articles %}
-<article class="article-card{% if loop.first %} featured-article{% endif %}"><div class="article-meta"><span>{{ article.data.category }}</span><time datetime="{{ article.date | htmlDate }}">{{ article.date | dateFr }}</time></div><h3>{{ article.data.title }}</h3><p>{{ article.data.description }}</p><a href="{{ article.url }}">Lire l’article <span>→</span></a></article>
-{% endfor %}
-</div>
-<div class="blog-cta"><div><p class="eyebrow light">Une question sur votre situation ?</p><h2>Un article informe. Une consultation permet de décider.</h2></div><a class="button secondary" href="index.html#contact">Présenter votre dossier</a></div></section>
-</main>
-<footer><div><strong>Maître Geoffroy Goirand</strong><span>Avocat en droit social et droit immobilier</span></div><div class="footer-links"><a href="mentions-legales.html">Mentions légales</a><a href="index.html">Accueil</a></div></footer><script src="script.js"></script>
-</body></html>
+<section class="page-hero">
+  <div class="container">
+    <p class="eyebrow">Blog juridique</p>
+    <h1>Comprendre vos droits avant d’agir.</h1>
+    <p>Des analyses pratiques sur les principales difficultés rencontrées en droit public, immobilier, social et rural.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="article-grid article-grid-wide">
+      {% for article in collections.articles %}
+      <article class="article-card">
+        <p class="article-category">{{ article.data.category }}</p>
+        <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+        <p>{{ article.data.description }}</p>
+        <div class="article-card-footer">
+          <time datetime="{{ article.date.toISOString() }}">{{ article.date | dateFr }}</time>
+          <a href="{{ article.url }}">Lire l’article</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

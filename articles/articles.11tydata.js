@@ -1,9 +1,7 @@
 module.exports = {
-  layout: "article.njk",
-  eleventy: {
-    computed: {
-      permalink: (data) =>
-        data.permalink || `articles/${data.page.fileSlug}/index.html`
-    }
+  layout: "layouts/article.njk",
+  tags: ["article"],
+  eleventyComputed: {
+    permalink: (data) => `/blog/${data.page.fileSlug}/`
   }
 };

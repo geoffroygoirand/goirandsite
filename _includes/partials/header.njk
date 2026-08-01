@@ -1,0 +1,23 @@
+<header class="site-header" data-header>
+  <div class="container header-inner">
+    <a class="brand" href="/" aria-label="Retour à l’accueil">
+      <span class="brand-monogram" aria-hidden="true">GG</span>
+      <span class="brand-text">
+        <strong>{{ site.shortName }}</strong>
+        <small>{{ site.profession }}</small>
+      </span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-navigation">
+      <span class="sr-only">Ouvrir le menu</span>
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="main-nav" id="main-navigation" aria-label="Navigation principale">
+      {% for item in navigation %}
+        <a href="{{ item.url }}">{{ item.label }}</a>
+      {% endfor %}
+      <a class="button button-small" href="tel:{{ site.phoneHref }}">Appeler</a>
+    </nav>
+  </div>
+</header>

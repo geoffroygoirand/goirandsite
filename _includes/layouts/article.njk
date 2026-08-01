@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+---
+<article class="article-page">
+  <header class="article-hero">
+    <div class="container article-hero-inner">
+      <a class="back-link" href="/blog/">← Retour au blog</a>
+      <p class="eyebrow">{{ category or "Actualité juridique" }}</p>
+      <h1>{{ title }}</h1>
+      {% if description %}<p class="article-intro">{{ description }}</p>{% endif %}
+      <div class="article-meta">
+        <span>Publié le {{ date | dateFr }}</span>
+        {% if readingTime %}<span>{{ readingTime }}</span>{% endif %}
+      </div>
+    </div>
+  </header>
+
+  <div class="container article-layout">
+    <div class="article-content">
+      {{ content | safe }}
+    </div>
+
+    <aside class="article-aside">
+      <div class="aside-card">
+        <p class="eyebrow">Besoin d’un conseil ?</p>
+        <h2>Exposez votre situation</h2>
+        <p>Un premier échange permet d’identifier les urgences, les pièces utiles et la stratégie envisageable.</p>
+        <a class="button button-full" href="/#contact">Contacter le cabinet</a>
+      </div>
+    </aside>
+  </div>
+</article>
