@@ -1,16 +1,30 @@
-BLOG ADMINISTRABLE — MISE EN LIGNE
+SITE AVOCAT – BLOG ADMINISTRABLE SUR NETLIFY
 
-1. Déposez ce projet dans un dépôt GitHub ou GitLab.
-2. Reliez ce dépôt à votre site Netlify. Un simple glisser-déposer du ZIP ne suffit pas pour publier depuis le CMS : le site doit être relié à Git.
-3. Netlify détectera automatiquement :
-   - commande de build : npm run build
-   - dossier publié : _site
-4. Dans Netlify, activez Identity puis choisissez les inscriptions sur invitation uniquement.
-5. Activez Git Gateway dans les réglages Identity.
-6. Invitez votre adresse e-mail comme utilisateur.
-7. Ouvrez https://votre-domaine.fr/admin/ et connectez-vous.
-8. Cliquez sur « Nouvel article », saisissez le titre, le résumé, la catégorie, la date et le contenu, puis publiez.
+1. MISE EN LIGNE
+- Envoyez tout le contenu de ce dossier dans le dépôt GitHub :
+  geoffroygoirand/goirandsite
+- Reliez ce dépôt au site Netlify.
+- Build command : npm run build
+- Publish directory : _site
 
-Les articles sont enregistrés dans le dossier articles et Netlify reconstruit automatiquement le site après chaque publication.
+2. ACTIVER L’ADMINISTRATION
+Dans Netlify :
+- Project configuration > Identity > Enable Identity
+- Registration preferences : Invite only
+- Services > Git Gateway > Enable Git Gateway
+- Identity > Users > Invite users
 
-Remarque : Netlify indique désormais que Git Gateway est une fonctionnalité dépréciée. Cette configuration reste la plus simple pour ce projet. À terme, il sera possible de remplacer ce mode de connexion par une authentification GitHub directe.
+3. ACCEPTER L’INVITATION
+- Ouvrez le courriel Netlify puis cliquez sur « Accept the invite ».
+- Le lien ouvre la page d’accueil. C’est normal.
+- Une fenêtre Netlify Identity doit apparaître automatiquement pour définir le mot de passe.
+- Après connexion, vous êtes redirigé vers /admin/.
+
+4. PUBLIER UN ARTICLE
+- Ouvrez https://votre-site.netlify.app/admin/
+- Connectez-vous avec l’adresse invitée et le mot de passe choisi.
+- Cliquez sur Articles > Nouvel article.
+- Enregistrez, puis publiez. Netlify reconstruit automatiquement le site.
+
+5. EN CAS DE CACHE
+Après un nouveau déploiement, rechargez la page avec Ctrl + F5 puis réutilisez le lien d’invitation tant qu’il est valide.

@@ -109,7 +109,7 @@ permalink: index.html
           <span>{{ article.data.category }}</span>
           <h3>{{ article.data.title }}</h3>
           <p>{{ article.data.description }}</p>
-          <a href="/{{ article.url }}">Lire l’article <span>→</span></a>
+          <a href="{{ article.url }}">Lire l’article <span>→</span></a>
         </article>
         {% endif %}{% endfor %}
       </div>
@@ -157,5 +157,23 @@ permalink: index.html
   </footer>
 
   <script src="script.js"></script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    (function () {
+      if (!window.netlifyIdentity) return;
+
+      window.netlifyIdentity.on("init", function (user) {
+        if (user) return;
+
+        // Les liens d’invitation, de confirmation et de récupération
+        // arrivent sur la page d’accueil avec un jeton dans l’URL.
+        // Le widget détecte ce jeton et affiche automatiquement
+        // la fenêtre permettant de définir le mot de passe.
+        window.netlifyIdentity.on("login", function () {
+          window.location.href = "/admin/";
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
