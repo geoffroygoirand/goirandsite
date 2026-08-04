@@ -42,7 +42,7 @@ La mise en demeure présente une importance particulière.
 
 Selon **l'article 1344 du Code civil**, le débiteur est mis en demeure de payer soit par une sommation ou un acte portant interpellation suffisante, soit lorsque le contrat prévoit que la seule échéance vaut mise en demeure.
 
-La mise en demeure permet notamment de faire courir certains intérêts et constitue souvent une preuve importante en cas de procédure judiciaire.
+La mise en demeure permet notamment de faire courir les intérêts de retard et constitue souvent une preuve importante en cas de procédure judiciaire.
 
 ## Les intérêts de retard
 
@@ -70,9 +70,9 @@ En l'absence d'opposition du débiteur dans le délai légal, cette ordonnance p
 
 ## L'action en paiement
 
-Lorsque la créance est contestée, le créancier devra saisir le tribunal compétent selon les règles de droit commun.
+Cependant, lorsque la créance est contestée, le créancier devra saisir le tribunal compétent selon les règles de droit commun. Il devra assigner le débiteur devant soit le tribunal judiciaire, soit devant le tribunal des activités économiques. 
 
-Le juge examinera notamment :
+Il est important de sa voir que le juge examinera notamment :
 
 - l'existence de la dette ;
 - les preuves produites ;
@@ -81,7 +81,7 @@ Le juge examinera notamment :
 
 ## Les mesures d'exécution forcée
 
-Lorsque le créancier obtient un **titre exécutoire**, il peut demander à un commissaire de justice de mettre en œuvre les procédures d'exécution.
+Lorsque le créancier obtient un **titre exécutoire**, à savoir un jugemet, il peut demander à un commissaire de justice de mettre en œuvre les procédures d'exécution.
 
 L'**article L.111-1 du Code des procédures civiles d'exécution** prévoit que tout créancier muni d'un titre exécutoire constatant une créance liquide et exigible peut en poursuivre l'exécution forcée sur les biens de son débiteur.
 

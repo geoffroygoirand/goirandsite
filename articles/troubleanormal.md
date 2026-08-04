@@ -1,0 +1,192 @@
+---
+title: "Le trouble anormal du voisinage : conditions, responsabilité et indemnisation"
+description: "Bruit, odeurs, perte d'ensoleillement, pollution, travaux… Découvrez les conditions permettant d'engager la responsabilité pour trouble anormal du voisinage, les preuves à apporter, les principales décisions de justice et les recours possibles."
+date: 2026-08-04
+category: "Droit immobilier"
+readingTime: "12 min de lecture"
+---
+
+Le **trouble anormal du voisinage** constitue aujourd'hui un fondement essentiel de la responsabilité civile. Il permet d'obtenir réparation lorsqu'un voisin cause des nuisances qui excèdent les inconvénients normaux de la vie en société, sans qu'il soit nécessaire de démontrer une faute.
+
+Cette responsabilité permet de protéger votre propriété ou votre cadre de vie des nuisances malheureuses des tiers. 
+
+Longtemps consacré uniquement par la jurisprudence, ce régime figure désormais à **l'article 1253 du Code civil**, qui instaure une responsabilité de plein droit de l'auteur du trouble.
+
+Cette responsabilité concerne non seulement les propriétaires, mais également les locataires, les maîtres d'ouvrage et, dans certaines situations, les entreprises intervenant sur un chantier.
+
+## Le principe : une responsabilité de plein droit
+
+L'article 1253 du Code civil prévoit que le propriétaire, le locataire, l'occupant sans titre, le bénéficiaire d'un titre d'occupation ou le maître d'ouvrage à l'origine d'un trouble excédant les inconvénients normaux du voisinage est responsable du dommage qui en résulte.
+
+Il s'agit d'un régime **objectif**, indépendant de toute faute.
+
+Autrement dit, la victime n'a pas à démontrer une négligence ou une imprudence. Il lui suffit d'établir qu'un trouble anormal existe et qu'il est directement à l'origine de son préjudice.
+
+La Cour d'appel de Douai rappelle que ce régime constitue un **régime autonome de responsabilité**, distinct de la responsabilité pour faute, dont le fondement réside dans le principe selon lequel nul ne doit causer à autrui un trouble excédant les inconvénients normaux du voisinage (CA Douai, 3e ch., 16 octobre 2025, n° 24/03787).
+
+## Quelles sont les conditions pour engager cette responsabilité ?
+
+L'action fondée sur le trouble anormal du voisinage suppose la réunion de plusieurs conditions.
+
+Afin de faire prospérer son action, la victime doit démontrer :
+
+- l'existence d'un trouble ;
+- le caractère anormal de ce trouble ;
+- un préjudice ;
+- un lien de causalité direct entre le trouble et le dommage subi.
+
+Même en présence d'une responsabilité de plein droit, la charge de la preuve demeure à la charge de celui qui agit. Ainsi, elle doit faire réaliser des constats d'huissier ou des expertises amiables. 
+
+Elle peut en outre saisir la Commune d'une plainte, ainsi que le syndic de copropiété, qui dispose de moyens d'actions contre les autres occupants de l'immeuble. 
+
+## Comment apprécier le caractère anormal du trouble ?
+
+Dans un souci de pragmatisme, toutes les nuisances ne sont pas indemnisables.
+
+La vie en société implique que chacun supporte certains désagréments. Seuls les troubles qui dépassent les inconvénients normalement supportables ouvrent droit à réparation.
+
+L'appréciation est réalisée **in concreto**, c'est-à-dire au regard des circonstances propres à chaque affaire.
+
+A cet égard, les juridictions prennent notamment en considération :
+
+- l'intensité des nuisances ;
+- leur durée ;
+- leur fréquence ;
+- la destination des lieux ;
+- la localisation de l'immeuble ;
+- les usages locaux ;
+- l'antériorité des activités ;
+- le comportement respectif des parties.
+
+La Cour d'appel de Caen rappelle que le trouble doit présenter un caractère durable, répété ou permanent et que son anormalité s'apprécie au regard d'un faisceau d'indices tenant notamment à la nature des lieux, aux usages locaux, à l'intensité des nuisances et à leur fréquence (CA Caen, 1re ch. civ., 18 décembre 2025, n° 22/01922).
+
+## Quels troubles sont généralement retenus par les tribunaux ?
+
+Les décisions rendues illustrent la diversité des situations susceptibles de caractériser un trouble anormal du voisinage.
+
+### Pollution d'un puits
+
+La Cour d'appel de Bordeaux a retenu l'existence d'un trouble anormal lorsqu'une fosse septique défectueuse avait contaminé le seul puits alimentant une habitation.
+
+Le propriétaire responsable a été condamné à indemniser les travaux de raccordement au réseau public ainsi que le préjudice de jouissance subi par la victime (CA Bordeaux, 26 octobre 2017, n° 16/00974).
+
+### Nuisances sonores d'un établissement recevant du public
+
+Les nuisances provoquées par un bar de nuit ont également été qualifiées de trouble anormal du voisinage.
+
+Les juges se sont fondés sur une étude acoustique, les plaintes répétées des riverains ainsi que les verbalisations pour tapage afin de condamner le bailleur à indemniser les voisins jusqu'à la fermeture de l'établissement (CA Angers, 1er avril 2008, n° 07/00564).
+
+### Travaux et opérations de construction
+
+Les travaux peuvent également être à l'origine d'un trouble anormal.
+
+La Cour de cassation considère que l'entrepreneur de travaux publics est responsable de plein droit lorsqu'il exerce une activité directement à l'origine des nuisances subies par les riverains, même lorsqu'il intervient sur le domaine public (Cass. 3e civ., 8 novembre 2018, n° 17-24.333 et 17-26.120).
+
+## Les nuisances qui ne sont pas nécessairement anormales
+
+À l'inverse, toutes les nuisances ne donnent pas lieu à indemnisation.
+
+Les juridictions tiennent compte du contexte dans lequel elles surviennent.
+
+Ainsi :
+
+- les bruits d'une école en milieu urbain ont été considérés comme faisant partie des inconvénients normaux de voisinage ;
+- les nuisances liées aux locations saisonnières dans une station balnéaire n'ont pas été jugées excessives ;
+- l'ombre portée par de grands conifères implantés depuis plusieurs décennies n'a pas été qualifiée de trouble anormal dès lors que la gêne restait limitée et conforme aux caractéristiques du secteur.
+
+Ces solutions résultent notamment des décisions rendues par les cours d'appel de Paris, Caen et Douai (CA Paris, 24 janvier 2013, n° 13/03375 ; CA Caen, 18 décembre 2025, n° 22/01922 ; CA Douai, 16 octobre 2025, n° 24/03787).
+
+## Qui peut être tenu responsable ?
+
+L'article 1253 du Code civil ne vise pas uniquement le propriétaire du bien.
+
+Peuvent également voir leur responsabilité engagée :
+
+- le locataire ;
+- l'occupant sans titre ;
+- le bénéficiaire d'un titre d'occupation ;
+- le maître d'ouvrage.
+
+La jurisprudence admet également l'action contre certains constructeurs, bureaux d'études ou entreprises lorsque leurs interventions présentent un lien direct avec le trouble subi.
+
+Le Tribunal judiciaire de Nantes rappelle ainsi que le voisin peut agir contre plusieurs intervenants à une opération de construction dès lors qu'un lien de causalité est établi (TJ Nantes, 23 mai 2024, n° 20/04282).
+
+Par ailleurs, la Cour d'appel d'Angers juge que la victime peut demander réparation au propriétaire pour les nuisances causées par son locataire, sans avoir à démontrer une faute du bailleur (CA Angers, 1er avril 2008, n° 07/00564).
+
+## Comment prouver un trouble anormal du voisinage ?
+
+La responsabilité étant de plein droit, seule la faute est dispensée de preuve.
+
+La victime doit néanmoins établir :
+
+- la réalité des nuisances ;
+- leur caractère anormal, c'est à dire le fait qu'elles excédent la jouissance normal du bien ;
+- leur lien avec le dommage invoqué.
+
+Dans ce contexte, les juridictions accordent une importance particulière aux éléments objectifs tels que :
+
+- les constats de commissaire de justice ;
+- les expertises judiciaires ;
+- les mesures acoustiques ;
+- les rapports techniques ;
+- les attestations circonstanciées.
+
+À l'inverse, des photographies non datées ou des témoignages imprécis ne suffisent généralement pas à établir l'existence d'un trouble anormal (CA Douai, 16 octobre 2025, n° 24/03787 ; CA Caen, 18 décembre 2025, n° 22/01922).
+
+## Quel est le délai pour agir ?
+
+L'action fondée sur le trouble anormal du voisinage est soumise à la **prescription quinquennale** prévue par l'article 2224 du Code civil.
+
+D'ailleurs, le délai commence à courir à compter du jour où la victime a connu, ou aurait dû connaître, le caractère anormal du trouble.
+
+A cet égard, la Cour d'appel de Douai rappelle que la répétition des nuisances ne fait pas repartir un nouveau délai de prescription et que celui qui invoque la prescription doit en démontrer le point de départ (CA Douai, 16 octobre 2025, n° 24/03787).
+
+## Les exceptions prévues par la loi
+
+Néanmoins, le Code civil prévoit une limite importante à ce régime de responsabilité.
+
+Ainsi, la responsabilité n'est pas engagée lorsque le trouble résulte d'une activité :
+
+- préexistante ;
+- conforme aux lois et règlements ;
+- poursuivie dans des conditions identiques ou non aggravées.
+
+Des dispositions spécifiques protègent également certaines activités agricoles, conformément à l'article L. 311-1-1 du Code rural et de la pêche maritime.
+
+## Quels sont les recours ?
+
+Avant toute procédure judiciaire, une tentative de règlement amiable peut permettre de résoudre le conflit.
+
+Selon les circonstances, il est possible de recourir :
+
+- à la conciliation ;
+- à la médiation ;
+- à une procédure participative ;
+- à une mise en demeure.
+
+En cas d'urgence, le juge des référés peut ordonner des mesures destinées à faire cesser immédiatement certaines nuisances.
+
+Le Tribunal judiciaire de Caen a ainsi ordonné la coupe de branches surplombant la propriété voisine tout en refusant d'intervenir sur des nuisances insuffisamment établies (TJ Caen, juge des référés, 16 juillet 2026, n° 25/00128).
+
+Lorsque le trouble est caractérisé, le juge peut notamment :
+
+- ordonner la cessation des nuisances ;
+- imposer la réalisation de travaux ;
+- allouer des dommages et intérêts ;
+- désigner un expert judiciaire.
+
+## Pourquoi consulter un avocat ?
+
+Les litiges relatifs au trouble anormal du voisinage sont essentiellement des questions de preuve.
+
+L'analyse de la jurisprudence montre que deux situations apparemment proches peuvent recevoir des solutions totalement différentes selon les circonstances de fait.
+
+Un avocat en droit immobilier peut intervenir afin :
+
+- d'apprécier si les nuisances présentent un caractère anormal ;
+- de réunir les preuves nécessaires ;
+- d'engager une tentative de résolution amiable ;
+- de solliciter une expertise judiciaire ;
+- d'engager une procédure devant le tribunal compétent afin d'obtenir la cessation du trouble et l'indemnisation du préjudice subi.
+
+Une étude préalable du dossier permet souvent d'évaluer les chances de succès de l'action et de déterminer la stratégie contentieuse la plus adaptée.
