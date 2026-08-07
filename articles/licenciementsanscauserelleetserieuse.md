@@ -1,9 +1,8 @@
 ---
 title: "Le licenciement sans cause réelle et sérieuse : définition, conditions et conséquences"
-description: "Découvrez les règles applicables au licenciement 
+description: "Découvrez les règles applicables au licenciement" 
 date: 2026-08-07
 category: "Droit social"
-
 ---
 
 # Le licenciement sans cause réelle et sérieuse : définition, conditions et conséquences
