@@ -1,3 +1,11 @@
+---
+title: "Le licenciement sans cause réelle et sérieuse : définition, conditions et conséquences"
+description: "Découvrez les règles applicables au licenciement 
+date: 2026-08-07
+category: "Droit social"
+
+---
+
 # Le licenciement sans cause réelle et sérieuse : définition, conditions et conséquences
 
 Le licenciement d'un salarié ne peut être prononcé librement par l'employeur. En droit français, tout licenciement pour motif personnel doit être justifié par une **cause réelle et sérieuse**. À défaut, le salarié peut saisir le conseil de prud'hommes afin d'obtenir la condamnation de son employeur et l'indemnisation de son préjudice.
