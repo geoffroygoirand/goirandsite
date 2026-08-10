@@ -15,7 +15,7 @@ La principale difficulté consiste souvent à prouver les horaires réellement e
 
 Pourtant, le salarié n’a pas nécessairement besoin d’une badgeuse ou d’un relevé officiel de son employeur pour agir.
 
-Voici les principales règles à connaître pour obtenir le paiement de ses heures supplémentaires.
+Vous trouverez dans la suite de cet article, les principales règles à connaître pour obtenir le paiement de ses heures supplémentaires.
 
 Qu’est-ce qu’une heure supplémentaire ?
 
