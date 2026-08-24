@@ -1,3 +1,11 @@
+---
+title: "Les actions de préférence : un outil souple pour organiser le capital d’une société"
+date: 2026-08-20
+description: "A quoi correspondent les actions de préférence ?  "
+keywords: "actions de préférence"
+---
+
+
 # Les actions de préférence : un outil souple pour organiser le capital d’une société
 
 Les **actions de préférence** constituent un instrument particulièrement utile pour organiser les rapports entre les actionnaires d’une société. Elles permettent d’attribuer à certains titres des droits particuliers, différents de ceux attachés aux actions ordinaires.
