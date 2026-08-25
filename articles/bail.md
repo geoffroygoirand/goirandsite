@@ -1,3 +1,11 @@
+---
+title: "Le bail d'habitation : les clauses importantes"
+date: 2026-08-25
+description: "Quelles sont les clauses importantes dans un bail d'habitation ?  "
+keywords: "bail d'habitation, clauses, exécution du bail"
+---
+
+
 Bail d’habitation : quelles sont les clauses importantes à vérifier ?
 
 La signature d’un bail d’habitation engage le locataire et le bailleur pendant plusieurs années. Pourtant, le contrat est parfois signé rapidement, sans que toutes ses stipulations soient examinées avec attention.
