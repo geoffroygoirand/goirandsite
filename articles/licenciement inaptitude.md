@@ -1,4 +1,12 @@
-Licenciement pour inaptitude physique : procédure, reclassement et indemnités
+---
+title: "Le licenciement pour inaptitude : conditions"
+date: 2026-08-20
+description: "Quelles sont les conditions du licenciment pour inaptitude ?  "
+keywords: "Licenciement pour inaptitude"
+---
+
+
+# Licenciement pour inaptitude physique : procédure, reclassement et indemnités
 
 Le licenciement pour inaptitude physique intervient lorsqu’un salarié est déclaré inapte à son poste par le médecin du travail et que son maintien dans l’entreprise n’est plus possible.
 
