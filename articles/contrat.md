@@ -1,3 +1,12 @@
+---
+title: "Contrat de travail : quelles sont les clauses importantes à vérifier"
+date: 2026-08-25
+description: "Quelles sont les clauses importantes dans un contrat de travail?  "
+keywords: "contrat de travail, clauses importantes"
+---
+
+
+
 Contrat de travail : quelles sont les clauses importantes à vérifier ?
 
 Signer un contrat de travail n’est jamais un acte anodin. Au-delà du salaire et de l’intitulé du poste, certaines clauses peuvent avoir des conséquences importantes pendant l’exécution du contrat, mais également au moment de sa rupture.
