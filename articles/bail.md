@@ -6,7 +6,7 @@ keywords: "bail d'habitation, clauses, exécution du bail"
 ---
 
 
-Bail d’habitation : quelles sont les clauses importantes à vérifier ?
+# Bail d’habitation : quelles sont les clauses importantes à vérifier ?
 
 La signature d’un bail d’habitation engage le locataire et le bailleur pendant plusieurs années. Pourtant, le contrat est parfois signé rapidement, sans que toutes ses stipulations soient examinées avec attention.
 
@@ -14,7 +14,7 @@ Le bail d’habitation est fortement encadré par la loi, en particulier par la 
 
 Voici les principaux points à vérifier avant de signer.
 
-1. L’identification du logement et des parties
+# 1. L’identification du logement et des parties
 
 Le bail doit permettre d’identifier précisément le bailleur et le locataire, mais également le logement loué.
 
@@ -22,7 +22,7 @@ Il convient notamment de vérifier l’adresse, la consistance du logement, sa s
 
 La surface habitable présente une importance particulière. Une différence significative entre la surface mentionnée dans le contrat et la surface réelle peut, sous certaines conditions, permettre au locataire de demander une diminution du loyer.
 
-2. La durée du bail
+# 2. La durée du bail
 
 La durée du contrat dépend notamment de la nature de la location et de la qualité du bailleur.
 
@@ -32,7 +32,7 @@ Les locations meublées obéissent à un régime différent, avec généralement
 
 La durée indiquée dans le contrat doit donc être vérifiée au regard du régime juridique réellement applicable.
 
-3. Le montant du loyer
+# 3. Le montant du loyer
 
 Le contrat doit évidemment indiquer le montant du loyer.
 
@@ -60,7 +60,7 @@ Le locataire doit donc examiner ce que recouvre exactement la somme demandée en
 
 Une annonce présentant un logement à 800 euros par mois peut ainsi correspondre à une obligation financière sensiblement différente selon que les charges représentent 30 ou 200 euros supplémentaires.
 
-5. Le dépôt de garantie
+# 5. Le dépôt de garantie
 
 Le dépôt de garantie est destiné à garantir l’exécution des obligations locatives.
 
@@ -70,7 +70,7 @@ Pour une location vide relevant de la loi du 6 juillet 1989, il ne peut en princ
 
 Il faut également distinguer le dépôt de garantie du cautionnement : le premier correspond à une somme versée, tandis que le second fait intervenir une personne qui garantit, dans les conditions prévues par son engagement, certaines obligations du locataire.
 
-6. La clause résolutoire
+# 6. La clause résolutoire
 
 C’est probablement l’une des clauses les plus importantes du bail.
 
@@ -82,7 +82,7 @@ La mise en œuvre d’une clause résolutoire est entourée de conditions et de 
 
 Il est néanmoins essentiel de comprendre cette clause, car elle peut devenir déterminante en cas de contentieux locatif.
 
-7. L’entretien du logement et les réparations
+# 7. L’entretien du logement et les réparations
 
 Le bail peut rappeler les obligations respectives du bailleur et du locataire.
 
@@ -92,7 +92,7 @@ Le propriétaire reste quant à lui tenu des obligations que la loi met à sa ch
 
 Une clause faisant supporter au locataire des travaux qui relèvent légalement du propriétaire doit donc être examinée avec prudence.
 
-8. La clause concernant les travaux
+# 8. La clause concernant les travaux
 
 Le contrat peut contenir des stipulations relatives aux travaux réalisés par le locataire.
 
@@ -102,7 +102,7 @@ Repeindre une pièce et abattre une cloison ne produisent évidemment pas les m�
 
 Avant d’effectuer des travaux importants, le locataire doit donc vérifier les dispositions légales et contractuelles applicables et déterminer si l’autorisation préalable du propriétaire est nécessaire.
 
-9. L’usage du logement
+# 9. L’usage du logement
 
 Le contrat précise généralement la destination des lieux.
 
@@ -112,7 +112,7 @@ La question est particulièrement importante pour les entrepreneurs, professions
 
 Il convient également de vérifier les éventuelles règles résultant du règlement de copropriété.
 
-10. La sous-location
+# 10. La sous-location
 
 La sous-location d’un logement soumis à la loi du 6 juillet 1989 est encadrée.
 
@@ -122,7 +122,7 @@ La sous-location peut nécessiter l’accord écrit du bailleur dans les conditi
 
 Une sous-location irrégulière peut entraîner des conséquences importantes, pouvant aller jusqu’à un contentieux portant sur la résiliation du bail.
 
-11. La clause de solidarité en cas de colocation
+# 11. La clause de solidarité en cas de colocation
 
 Cette clause mérite une attention particulière lorsqu’un logement est loué par plusieurs personnes.
 
@@ -132,7 +132,7 @@ Exemple : deux colocataires doivent ensemble 1 200 euros de loyer. Si l’un ces
 
 Les conséquences de la solidarité doivent également être étudiées lorsqu’un colocataire donne congé.
 
-12. Les clauses relatives à l’assurance
+# 12. Les clauses relatives à l’assurance
 
 Le locataire est en principe tenu de s’assurer contre les risques locatifs dans les conditions prévues par la loi.
 
@@ -140,7 +140,7 @@ Le bail peut donc comporter des stipulations concernant l’assurance du logemen
 
 Cette obligation ne doit pas être négligée : l’absence d’assurance peut entraîner des conséquences sérieuses dans les conditions prévues par les textes et le contrat.
 
-13. Le congé et la fin du bail
+# 13. Le congé et la fin du bail
 
 Il faut également regarder les dispositions relatives à la fin du contrat.
 
@@ -150,7 +150,7 @@ Le locataire dispose d’une faculté de donner congé en respectant les règles
 
 Le bailleur est soumis à des conditions plus strictes lorsqu’il souhaite mettre fin au bail à son échéance. Son congé doit notamment reposer sur l’un des motifs admis par la loi, tels que la reprise, la vente ou un motif légitime et sérieux, et respecter les conditions de forme et de délai applicables.
 
-14. Les clauses interdites
+# 14. Les clauses interdites
 
 Toutes les clauses figurant matériellement dans un bail ne sont pas nécessairement valables.
 
@@ -160,7 +160,7 @@ Une clause contractuelle ne peut donc pas permettre au bailleur de contourner un
 
 C’est un principe essentiel en matière de bail d’habitation : la signature du contrat ne rend pas automatiquement licite chacune de ses clauses.
 
-15. Les annexes au bail
+# 15. Les annexes au bail
 
 Enfin, il ne faut pas examiner uniquement le corps du contrat.
 
