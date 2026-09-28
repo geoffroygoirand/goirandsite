@@ -1,3 +1,10 @@
+---
+title: "Les clauses importantes lors d'une cession d'entreprise"
+date: 2026-09-22
+description: "Quelles sont les clauses à surveiller lors d'une procédure de cession d'entreprise ?  "
+keywords: "cession d'entreprise, clause"
+---
+
 # Les clauses importantes en cas de cession d’entreprise
 
 La cession d’une entreprise constitue une opération complexe qui ne se limite pas à la fixation d’un prix. Le contrat doit définir précisément ce qui est cédé, organiser le transfert de l’activité et répartir les risques entre le vendeur et l’acquéreur.
