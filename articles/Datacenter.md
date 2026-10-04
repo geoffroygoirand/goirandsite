@@ -17,7 +17,7 @@ La réglementation évolue également pour tenir compte des enjeux de souveraine
 Dès lors, quelles sont les autorisations nécessaires pour construire et exploiter un data center en France ?
 
 # I. Le permis de construire : la première autorisation à anticiper
-A. Vérifier la compatibilité du projet avec les règles d'urbanisme
+# A. Vérifier la compatibilité du projet avec les règles d'urbanisme
 La construction d'un data center neuf est, en principe, soumise à l'obtention d'un permis de construire, conformément aux articles L. 421-1 et suivants du Code de l'urbanisme.
 
 Avant de déposer sa demande, le maître d'ouvrage doit vérifier que le terrain retenu peut légalement accueillir une telle installation.
@@ -41,7 +41,7 @@ Pour un projet de grande ampleur, le permis de construire peut également néces
 
 
 # II. Les autorisations environnementales : un enjeu central pour les data centers
-A. La réglementation relative aux installations classées
+# A. La réglementation relative aux installations classées
 Un data center n'est pas automatiquement une installation classée pour la protection de l'environnement du seul fait de son activité informatique.
 
 En revanche, certains équipements nécessaires à son fonctionnement peuvent relever de la nomenclature ICPE.
@@ -50,6 +50,7 @@ Il s'agit notamment des groupes électrogènes de secours, des installations de 
 
 
 Le classement effectif dépend des caractéristiques techniques, des substances utilisées et des seuils de chaque rubrique.
+
 Selon le classement retenu, le projet peut relever d'une déclaration, d'un enregistrement ou d'une autorisation environnementale.
 
 Une attention particulière doit être portée au cumul des puissances des groupes électrogènes et aux conditions de leur fonctionnement. Leur utilisation limitée aux périodes de secours ne dispense pas, à elle seule, d'examiner la réglementation ICPE.
